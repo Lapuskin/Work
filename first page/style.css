@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1080px;
+    margin: 0 auto;
+    display: flex;
+}
+.minicont{
+    width: 1080px;
+    height: 56px;
+    background: white;
+    margin: 0 auto;
+}
+ul li {
+    display: block;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+}
+
+header a{
+    color: black;
+}
+
+.menu {
+    display: flex;
+}
+    
+.menu li a{
+    margin-right: 1.75em;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Roboto;
+}
+
+.icon{
+    display: flex;
+}
+
+.icon li a img{
+    margin-right: 1.25em;
+}
+div .num {
+    display: flex;
+}
+.logo {
+    width: 80px;
+    height: 20px;
+    padding-left: 4.3125em;
+    margin-right: 23.6875em;
+    margin-top:  0.9375em;
+}
+.first{
+    background:#F0EFEB;
+    
+}
+.first h1{
+    font-family: Roboto;
+    font-size: 60px;
+}
+.first p{
+    font-family: Roboto;
+    font-size: 24px;
+}
+.containertxt h1{
+    width: 544px;
+    margin: 90px 0 42px 0;
+}
+.container .img{
+    width: 599px;
+    height: 521px;
+    margin: 0 60px 24px 0;
+}
+.containertxt .btn{
+    background: black;
+    border: 0;
+    border-radius: 130px;
+    padding: 7px 23px 9px;
+}
+.containertxt .btn_txt{
+    font-family: Roboto;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    margin: 7px 23px 9px 23px;
+}
+.btn :hover{
+    background: white;
+    border: black;
+    border-radius: 130px;
+    
+}
+
